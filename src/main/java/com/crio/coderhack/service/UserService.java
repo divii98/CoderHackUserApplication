@@ -7,9 +7,9 @@ import com.crio.coderhack.exchanges.UserResponse;
 import java.util.List;
 
 public interface UserService {
-    public UserResponse addUser(PostUserRequest postUserRequest);
-    public List<UserResponse> getAllUsers();
-    public UserResponse getUser(String userId);
-    public UserResponse updateScore(UpdateUserRequest updateUserRequest);
-    public void deleteUser(String userId);
+    UserResponse addUser(PostUserRequest postUserRequest);
+    List<UserResponse> getAllUsers();
+    UserResponse getUser(String userId);
+    UserResponse updateScore(UpdateUserRequest updateUserRequest);
+    void deleteUser(String userId);
 }
