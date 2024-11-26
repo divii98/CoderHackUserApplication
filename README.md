@@ -36,7 +36,7 @@ cd your-repo-name
 
 ## Running the Application
 ##### 1. Configure the Database:
-Make sure to set up your database (e.g., MySQL) and update the database configurations in application.properties.
+Make sure to set up your database and update the database configurations in application.properties.
 ##### 2. Build and Run the Service:
 
 Use Gradle to build and run the application
