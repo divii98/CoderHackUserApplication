@@ -30,7 +30,7 @@ This project is a simple RESTful API for managing users for a coding contest, al
 ## Installation
 ##### Clone the repository:
 ```bash
-git clone https://github.com/XXXX
+git clone https://github.com/divii98/CoderHackUserApplication.git
 cd your-repo-name
 ```
 
